@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlympicTask1", "OlympicTask1.csproj", "{063EDDA3-E3C4-49AE-9841-519F4E9A4116}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063EDDA3-E3C4-49AE-9841-519F4E9A4116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063EDDA3-E3C4-49AE-9841-519F4E9A4116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063EDDA3-E3C4-49AE-9841-519F4E9A4116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063EDDA3-E3C4-49AE-9841-519F4E9A4116}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
