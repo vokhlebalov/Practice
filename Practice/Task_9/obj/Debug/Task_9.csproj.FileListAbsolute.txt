@@ -1,0 +1,6 @@
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Практика\Задания\Practice\Task_9\bin\Debug\Task_9.exe
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Практика\Задания\Practice\Task_9\bin\Debug\Task_9.pdb
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Практика\Задания\Practice\Task_9\obj\Debug\Task_9.csprojAssemblyReference.cache
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Практика\Задания\Practice\Task_9\obj\Debug\Task_9.csproj.CoreCompileInputs.cache
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Практика\Задания\Practice\Task_9\obj\Debug\Task_9.exe
+C:\Users\hhleb\OneDrive - НИУ Высшая школа экономики\Практика\Задания\Practice\Task_9\obj\Debug\Task_9.pdb
